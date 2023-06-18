@@ -1,0 +1,12 @@
+{
+  "devDependencies": {
+    "sass": "^1.63.4"
+  },
+  "scripts": {
+    "dev": "sass -w src/scss:dist/css"
+  },
+  "dependencies": {
+    "bootstrap": "^5.3.0",
+    "marked": "^5.1.0"
+  }
+}
