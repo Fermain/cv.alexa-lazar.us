@@ -4,3 +4,47 @@
 @import "../../node_modules/bootstrap/scss/maps";
 @import "../../node_modules/bootstrap/scss/mixins";
 @import "../../node_modules/bootstrap/scss/bootstrap";
+
+.page-break {
+    page-break-after: always;
+}
+
+@media print {
+    body {
+        font-size: 16px;
+    }
+
+    .shadow {
+        box-shadow: none !important;
+    }
+
+    .list-group {
+        border: 0 !important;
+        &-item {
+            border: 0 !important;
+        }
+    }
+
+    .accordion {
+        &, &-item, &-button, &-header {
+            border: 0 !important;
+        }
+
+        &-button, &-body {
+            padding: 0;
+        }
+
+        &-button {
+            margin-bottom: 0.5rem;
+        }
+    }
+
+    .list-group-item {
+        padding-left: 0;
+        padding-right: 0;
+        & & {
+            padding: 0;
+        }
+    }
+}
+
