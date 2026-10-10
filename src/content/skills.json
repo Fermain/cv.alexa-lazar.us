@@ -1,0 +1,72 @@
+{
+	"groups": [
+		{
+			"name": "Project Management & Leadership",
+			"items": [
+				{
+					"name": "Adept at Taking Ownership",
+					"value": "Proficient in taking ownership of projects and initiatives, ensuring successful execution."
+				},
+				{
+					"name": "Drive for Excellence",
+					"value": "Exhibits a strong internal drive for excellence, often exceeding prescribed role expectations."
+				},
+				{
+					"name": "Team Leadership & Coordination",
+					"value": "Skilled in leading and coordinating medium to large teams, promoting collaboration and achieving common goals."
+				},
+				{
+					"name": "Emotional Intelligence",
+					"value": "Demonstrates a high level of emotional intelligence, fostering positive team dynamics and individual growth."
+				}
+			]
+		},
+		{
+			"name": "Organizational & Logistical Proficiency",
+			"items": [
+				{
+					"name": "Multiple Projects Management",
+					"value": "Exceptional ability to manage multiple projects on various timelines, ensuring efficient resource allocation."
+				},
+				{
+					"name": "Logistics Coordination",
+					"value": "Proficient in coordinating both physical and human resources, optimizing logistical efficiency."
+				},
+				{
+					"name": "Event Management",
+					"value": "Proficient in overseeing all aspects of event planning, setup, and breakdown to ensure seamless execution."
+				}
+			]
+		},
+		{
+			"name": "Training, Coaching, & Mentoring",
+			"items": [
+				{
+					"name": "Team Training & Mentoring",
+					"value": "Experienced in onboarding new team members, conducting training workshops, and active mentoring."
+				},
+				{
+					"name": "Internal Coaching",
+					"value": "Proficient in providing internal coaching across departments, promoting professional growth and development."
+				}
+			]
+		},
+		{
+			"name": "Communication & Stakeholder Engagement",
+			"items": [
+				{
+					"name": "Strong Communication",
+					"value": "Adept at clear and effective written and verbal communication, maintaining a balance between firmness and empathy."
+				},
+				{
+					"name": "Interpersonal Skills",
+					"value": "Exceptional ability to connect and work well with individuals at all levels, fostering a positive team environment."
+				},
+				{
+					"name": "Software Proficiency",
+					"value": "Proficient in Spreadsheet software, Microsoft Office Suite, iWork, Google Drive, and various communication tools."
+				}
+			]
+		}
+	]
+}

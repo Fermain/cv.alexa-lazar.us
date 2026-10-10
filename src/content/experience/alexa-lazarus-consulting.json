@@ -1,0 +1,40 @@
+{
+	"employer": "Alexa Lazarus Consulting",
+	"position": "Freelance",
+	"period": "August 2023 - Present",
+	"groups": [
+		{
+			"name": "Portfolio",
+			"layout": "Dated lines",
+			"items": [
+				{
+					"name": "RMB Resources - Strategy & Culture",
+					"value": "June 2024 - present"
+				},
+				{
+					"name": "Coca-Cola - Brand Activation",
+					"value": "April 2024 - June 2024"
+				},
+				{
+					"name": "Miladys & Playtex - Nationwide Digital Relaunch",
+					"value": "March 2024 - April 2024"
+				},
+				{
+					"name": "RMB - Strategy & Culture",
+					"value": "January 2024 - February 2024"
+				},
+				{
+					"name": "Tracker - Strategy & Culture",
+					"value": "November 2023"
+				},
+				{
+					"name": "Private Event - VIP Wedding",
+					"value": "September 2023 - October 2023"
+				}
+			]
+		}
+	],
+	"_meta": {
+		"order": 0
+	}
+}

@@ -1,0 +1,32 @@
+{
+	"employer": "Oyster Box Hotel",
+	"position": "Management Trainee Programme",
+	"period": "July 2013 - July 2016",
+	"groups": [
+		{
+			"name": "Responsibilities",
+			"layout": "Described points",
+			"items": [
+				{
+					"name": "Team Leadership",
+					"value": "Scheduled, trained, and managed a multicultural team of up to 50 staff across various departments. Motivated and stewarded teams to achieve high levels of guest satisfaction through proactive service and communication."
+				},
+				{
+					"name": "Client Relationships & New Business Acquisition",
+					"value": "Cultivated client relationships through attention to detail and professionalism. Attracted new business through coordinated interdepartmental sales efforts."
+				},
+				{
+					"name": "Event Planning & Execution",
+					"value": "Negotiated with clients and compiled accurate function sheets for events. Managed function logistics including procurement and delivery of equipment. Directed the setup and breakdown of functions. Hosted a variety of functions including weddings, corporate events, and industry events for diverse client groups."
+				},
+				{
+					"name": "Financial Management",
+					"value": "Coordinated invoicing and ensured timely payments."
+				}
+			]
+		}
+	],
+	"_meta": {
+		"order": 2
+	}
+}
