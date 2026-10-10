@@ -1,0 +1,102 @@
+{
+	"employer": "TBWA Hunt Lascaris",
+	"position": "DMY Events",
+	"period": "December 2016 - August 2023",
+	"groups": [
+		{
+			"name": "Roles",
+			"layout": "Dated lines",
+			"items": [
+				{
+					"name": "Core Execution Team (CET)",
+					"value": "January 2022 - August 2023"
+				},
+				{
+					"name": "Senior Event Producer",
+					"value": "April 2020 - August 2023"
+				},
+				{
+					"name": "Event Producer",
+					"value": "April 2018 - April 2020"
+				},
+				{
+					"name": "Junior Event Producer",
+					"value": "December 2016 - April 2018"
+				}
+			]
+		},
+		{
+			"name": "Accolades",
+			"layout": "Dated lines",
+			"items": [
+				{
+					"name": "Wright Academy",
+					"value": "July 2019 (Istanbul, Turkey)"
+				},
+				{
+					"name": "Young Lions",
+					"value": "July 2018 (Johannesburg, South Africa)"
+				},
+				{
+					"name": "Heart and Soul Award",
+					"value": "(2017, 2018, 2019, 2020, 2021)"
+				}
+			]
+		},
+		{
+			"name": "Skills Training",
+			"layout": "Dated lines",
+			"items": [
+				{
+					"name": "Omnicom Security and Awareness Training",
+					"value": "2016 - 2023"
+				},
+				{
+					"name": "Professional Coaching and Leadership in Business",
+					"value": "2022"
+				},
+				{
+					"name": "Red and Yellow Social Media Marketing Course",
+					"value": "2019"
+				},
+				{
+					"name": "Agile Methodology",
+					"value": "2018"
+				}
+			]
+		},
+		{
+			"name": "Key Responsibilities",
+			"layout": "Described points",
+			"items": [
+				{
+					"name": "Project Management & Event Operations",
+					"value": "Ensured projects stayed on track, meeting all expectations and goals within defined timelines. Managed events that were distinctive, professional, and aligned with corporate branding standards."
+				},
+				{
+					"name": "Budget Control & Financial Oversight",
+					"value": "Drove budgetary control across various projects, ensuring successful delivery within specified budgets. Acted as the primary liaison for clients and suppliers, adeptly managing financial processes and engaging with stakeholders to address concerns and oversee budget management effectively."
+				},
+				{
+					"name": "Strategy Development & Implementation",
+					"value": "Led the formulation and execution of comprehensive engagement strategies to drive team progress and success. Analyzed industry trends and stakeholder preferences to strategically plan and implement initiatives that significantly contributed to business growth. End-to-end production approach from event ideation to post-delivery."
+				},
+				{
+					"name": "Stakeholder Engagement & Collaboration",
+					"value": "Fostered collaboration among diverse stakeholders to drive project success. Orchestrated seamless coordination with clients, creatives, and external partners, managing communications, deadlines, and logistics effectively to prioritize high-impact activities."
+				},
+				{
+					"name": "Post-Project Evaluation & Continuous Improvement",
+					"value": "Conducted comprehensive evaluations following events and projects, analyzing budgets and creative materials, and communicating outcomes effectively. Leveraged insights to adapt strategies for future initiatives, promoting continuous improvement and enhancing overall experiences."
+				},
+				{
+					"name": "Adaptability & Digital Proficiency",
+					"value": "Demonstrated remarkable agility in transitioning seamlessly from traditional to virtual event environments during the COVID-19 pandemic. Proficiently navigated the technical aspects of online platforms and the evolving digital landscape, ensuring effective remote work with a load-shedding proof workspace."
+				}
+			]
+		}
+	],
+	"_meta": {
+		"order": 1
+	}
+}
