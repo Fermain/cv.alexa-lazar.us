@@ -48,8 +48,7 @@ export default defineConfig({
 				})
 			},
 			components: {
-				view: () => import('./components/Employer.svelte'),
-				list: () => import('./components/Experience.svelte')
+				view: () => import('./components/Employer.svelte')
 			}
 		}),
 
@@ -64,8 +63,7 @@ export default defineConfig({
 				points: fields.list({ label: 'Points', itemLabel: 'Point', item: fields.text({ label: 'Point' }) })
 			},
 			components: {
-				view: () => import('./components/School.svelte'),
-				list: () => import('./components/Education.svelte')
+				view: () => import('./components/School.svelte')
 			}
 		}),
 
